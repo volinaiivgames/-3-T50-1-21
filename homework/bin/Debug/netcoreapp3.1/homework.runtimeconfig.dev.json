@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\volin\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\volin\\.nuget\\packages"
+    ]
+  }
+}
